@@ -1,0 +1,2 @@
+python-osc==1.7.7
+zeroconf==0.32.0
